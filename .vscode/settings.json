@@ -1,0 +1,32 @@
+{
+  "conventionalCommits.gitmoji": false,
+  "conventionalCommits.promptBody": false,
+  "conventionalCommits.promptFooter": false,
+  "conventionalCommits.promptScopes": false,
+  "editor.codeActionsOnSave": [
+    "source.fixAll.eslint"
+  ],
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "files.insertFinalNewline": true,
+  "html.format.wrapAttributes": "force-aligned",
+  "html.format.wrapLineLength": 120,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "javascript.format.semicolons": "insert",
+  "javascript.preferences.quoteStyle": "single",
+  "mjml.beautify": {
+    "indent_size": 4,
+    "wrap_attributes_indent_size": 4,
+    "wrap_attributes": "force-aligned"
+  },
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "typescript.format.semicolons": "insert",
+  "typescript.preferences.quoteStyle": "single",
+  "[json][jsonc]": {
+    "editor.tabSize": 2
+  },
+  "[scss]": {
+    "editor.formatOnSave": false
+  }
+}
